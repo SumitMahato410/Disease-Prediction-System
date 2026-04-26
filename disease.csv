@@ -1,0 +1,86 @@
+fever,cough,headache,fatigue,nausea,vomiting,diarrhea,disease
+1,1,1,1,0,0,0,Flu
+1,0,1,1,1,0,0,Malaria
+0,1,0,0,0,0,0,Cold/Allergy
+1,0,1,1,1,1,0,Dengue
+0,0,0,1,1,1,1,Food Poisoning
+1,1,0,1,0,0,0,Covid-19
+0,0,0,0,0,0,0,No Disease (Person is Healthy)
+1,1,1,1,1,1,1,Complex Disease (Recommend a Doctor ASAP)
+0,0,1,0,0,0,0,Normal Headache/Migraine
+1,0,0,0,0,0,0,Normal Flu(Increase of body temperature)
+0,0,0,1,0,0,0,Simple Fatigue(Heavy Work/Stress/Improper Sleep) 
+0,0,0,0,1,0,0,Nausea(Food Poisoning/Migraine/Anxiety/Motion Sickness)
+0,0,0,0,0,1,0,Vomiting(Overeating/Nausea/Motion Sickness/Pregnancy)
+0,0,0,0,0,0,1,Diarrhea(Digestive Disorder/Food Intolerance)
+1,1,0,0,0,0,0,Flu
+1,0,1,0,0,0,0,Viral Fever
+1,0,0,1,0,0,0,Typhoid
+0,1,1,0,0,0,0,Sinusitis
+0,1,0,1,0,0,0,Bronchitis
+0,0,1,1,0,0,0,Migraine
+0,0,0,1,1,0,0,Gastritis
+0,0,0,0,1,1,0,Food Poisoning
+0,0,0,0,1,0,1,Stomach Infection
+1,1,1,0,0,0,0,Flu
+1,0,1,1,0,0,0,Typhoid
+1,0,0,1,1,0,0,Malaria
+0,1,1,1,0,0,0,Sinusitis
+0,0,1,1,1,0,0,Migraine
+0,0,0,1,1,1,0,Food Poisoning
+1,1,0,1,0,0,0,Covid-19
+1,1,1,1,0,0,0,Covid-19
+1,0,1,1,1,0,0,Malaria
+1,0,1,1,0,1,0,Dengue
+0,1,1,1,1,0,0,Flu
+0,0,1,1,1,1,0,Food Poisoning
+1,1,0,1,1,0,0,Typhoid
+1,1,1,1,1,0,0,Severe Flu
+1,0,1,1,1,1,0,Dengue
+0,1,1,1,1,1,0,Food Poisoning
+1,1,0,1,1,1,0,Severe Typhoid
+1,1,1,1,0,1,0,Severe Viral Fever
+0,1,1,1,1,1,1,Severe Food Poisoning
+1,0,1,1,1,1,1,Severe Gastroenteritis
+1,1,0,1,1,1,1,Severe Typhoid
+1,1,1,0,1,1,1,Severe Viral Infection
+1,1,1,1,0,1,1,Severe Dengue
+1,1,1,1,1,0,1,Severe Infection
+1,1,1,1,1,1,0,Severe Flu
+1,1,0,0,0,0,0,Flu
+1,1,1,0,0,0,0,Flu
+0,1,0,0,0,0,0,Cold/Allergy
+0,1,0,1,0,0,0,Cold/Allergy
+0,1,1,0,0,0,0,Cold/Allergy
+,,,,,,,
+1,0,1,1,1,0,0,Malaria
+1,0,0,1,1,0,0,Malaria
+1,0,1,1,0,0,0,Malaria
+,,,,,,,
+1,0,1,1,1,1,0,Dengue
+1,0,1,1,0,1,0,Dengue
+1,1,1,1,0,1,0,Dengue
+,,,,,,,
+0,0,0,1,1,1,0,Food Poisoning
+0,0,0,1,1,1,1,Food Poisoning
+0,0,0,0,1,1,1,Food Poisoning
+,,,,,,,
+1,1,0,1,0,0,0,Covid-19
+1,1,1,1,0,0,0,Covid-19
+1,1,0,1,1,0,0,Covid-19
+,,,,,,,
+0,0,1,0,0,0,0,Migraine
+0,0,1,1,0,0,0,Migraine
+0,0,1,1,1,0,0,Migraine
+,,,,,,,
+0,0,0,1,0,0,0,Fatigue
+0,0,0,1,1,0,0,Fatigue
+,,,,,,,
+0,0,0,0,1,0,0,Nausea
+0,0,0,0,1,1,0,Nausea
+,,,,,,,
+0,0,0,0,0,1,0,Vomiting
+0,0,0,0,0,1,1,Vomiting
+,,,,,,,
+0,0,0,0,0,0,1,Diarrhea
+0,0,0,0,1,0,1,Diarrhea
